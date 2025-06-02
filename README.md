@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Subhan
 
-<!--
-**M-Subhan10/M-Subhan10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Android Developer who enjoys building intuitive and engaging mobile applications. With a strong grasp of modern development tools and a knack for clean UI/UX, I strive to bring seamless mobile experiences to life.
 
-Here are some ideas to get you started:
+## 🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📱 **Languages & Frameworks:** Kotlin, Java, XML, C++, Assembly, Python
+- ☁️ **Firebase:** Authentication, Firestore, Realtime Database, Cloud Storage
+- 🛠️ **Tools:** Android Studio, Git & GitHub, Overleaf, Figma (basic)
+- 📋 **Documentation:** Overleaf (LaTeX), MS Word
+
+## ⚽ Outside of Code...
+
+When I'm not developing apps, you’ll find me on the football field, playing table tennis, or deep into esports competitions. I believe balance fuels creativity and keeps me energized to build better things.
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/subhanandroid/
+- Email: subhanasim1000@gmail.com
+
+Thanks for stopping by! 🚀
