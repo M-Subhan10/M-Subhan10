@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 # 👋 Hi, I'm Muhammad Subhan
 
 I'm a passionate Android Developer who enjoys building intuitive and engaging mobile applications. With a strong grasp of modern development tools and a knack for clean UI/UX, I strive to bring seamless mobile experiences to life.
